@@ -14,8 +14,9 @@ import {
 } from 'mdb-react-ui-kit';
 import './App.css';
 
+/* npm i axios mdb-react-ui-kit */
 /* npm install json-server */
-/* npm run */
+/* npm run server */
 /* npm start */
 
 function App() {
