@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "name": "Fanni",
+            "email":    "fanni@gmail.com",
+            "phone":    "87543209825",
+            "address":  "Bekasi",
+            "id":   1,
+            "status":   "Active"
+        },
+        {
+            "name": "Jasmine",
+            "email":    "jasmine@gmail.com",
+            "phone":    "847583247051",
+            "address":  "Jakarta",
+            "id":   2,
+            "status":   "Active"
+        },
+        {
+            "name": "Adhan",
+            "email":    "adhan@gmail.com",
+            "phone":    "72098352875304",
+            "address":  "Bogor",
+            "id":   3,
+            "status":   "Active"
+        },
+        {
+            "name": "Raffi",
+            "email":    "raffi@gmail.com",
+            "phone":    "8240508923192851",
+            "address":  "Jakarta",
+            "id":   4,
+            "status":   "Inactive"
+        },
+        {
+            "name": "Isan",
+            "email":    "isan@gmail.com",
+            "phone":    "084528042738725",
+            "address":  "Bekasi",
+            "id":   5,
+            "status":   "Inactive"
+        },
+        {
+            "name": "Arkan",
+            "email":    "arkan@gmail.com",
+            "phone":    "89023450327182123",
+            "address":  "Bogor",
+            "id":   6,
+            "status":   "Inactive"
+        },
+        {
+            "name": "Shahran",
+            "email":    "shahran@gmail.com",
+            "phone":    "8943750928305",
+            "address":  "Jakarta",
+            "id":   7,
+            "status":   "Active"
+        },
+        {
+            "name": "Sekar",
+            "email":    "sekar@gmail.com",
+            "phone":    "8093425087182",
+            "address":  "Jakarta",
+            "id":   8,
+            "status":   "Inactive"
+        },
+        {
+            "name": "Addin",
+            "email":    "addin@gmail.com",
+            "phone":    "8943759212894",
+            "address":  "Bandung",
+            "id":   9,
+            "status":   "Active"
+        },
+        {
+            "name": "Reyhan",
+            "email":    "reyhan@gmail.com",
+            "phone":    "398729491827398",
+            "address":  "Jakarta",
+            "id":   10,
+            "status":   "Active"
+        }
+    ]
+}
